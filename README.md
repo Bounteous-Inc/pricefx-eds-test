@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--pricefx-eds-test--Bounteous-Inc.hlx.page/
+- Live: https://main--pricefx-eds-test--Bounteous-Inc.hlx.live/
 
 ## Installation
 
