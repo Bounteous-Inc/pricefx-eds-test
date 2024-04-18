@@ -2,7 +2,7 @@
   "mappings": [
     "/content/pricefx-eds-test/:/",
     "/content/pricefx-eds-test.resource/query-index.json:/query-index.json",
-    "/content/pricefx-eds-test.resource/blog-articles.json:/blog-articles.json"
+    "/content/pricefx-eds-test.resource/blog-articles.json:/blog-articles.json",
     "/content/pricefx-eds-test/configuration:/.helix/config.json"
   ]
 }
