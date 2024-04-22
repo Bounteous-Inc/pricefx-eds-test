@@ -26,7 +26,7 @@ indices:
       
 blog:
     include: 
-      - '/blog-articles/*'
+      - '/blog-articles/**'
     target: /blog-articles.json
     properties:
       title:
