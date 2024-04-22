@@ -24,7 +24,7 @@ indices:
         select: none
         value: parseTimestamp(headers["last-modified"], "ddd, DD MMM YYYY hh:mm:ss GMT")
       
-blog:
+  blog:
     include: 
       - '/blog-articles/**'
     target: /blog-articles.json
